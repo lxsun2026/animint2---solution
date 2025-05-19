@@ -1,4 +1,4 @@
-# animint2 Test + Vis
+# animint2 Test + Interactive Vis
 
 This repository contains renderer test solutions for the [`animint2`](https://github.com/animint/animint2) package as part of the R open source language.
 
