@@ -1,6 +1,6 @@
-# animint2 GSoC Test Solutions – Lewen Sun
+# animint2 Test – Lewen Sun
 
-This repository contains renderer test solutions for the [`animint2`](https://github.com/animint/animint2) package.
+This repository contains renderer test solutions for the [`animint2`](https://github.com/animint/animint2) package as part of the R open source language.
 
 ## Renderer Test: World Bank GDP vs. Life Expectancy
 
