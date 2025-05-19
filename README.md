@@ -1,6 +1,6 @@
 # animint2 GSoC Test Solutions – Lewen Sun
 
-This repository contains renderer test solutions for the [`animint2`](https://github.com/animint/animint2) package, completed as part of the Google Summer of Code (GSoC) 2025 contributor evaluation.
+This repository contains renderer test solutions for the [`animint2`](https://github.com/animint/animint2) package.
 
 ## Renderer Test: World Bank GDP vs. Life Expectancy
 
